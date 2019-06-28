@@ -1,6 +1,6 @@
 {
     "git.ignoreMissingGitWarning": true,
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Ayu Mirage",
     
     //"latexCompile.compiler": "xelatex",
     "latex-workshop.latex.recipes": [
@@ -54,6 +54,10 @@
     "editor.fontSize": 18,
     "editor.fontFamily": "'DejaVu Sans Mono for Powerline','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "window.titleBarStyle": "custom",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
 
 }
 
